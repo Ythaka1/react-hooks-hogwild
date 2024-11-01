@@ -1,0 +1,24 @@
+body {
+    background-color: #2a8513;
+  }
+  
+  h1 {
+    color: #3c763d;
+    text-align: center;
+  }
+  
+  .ui.card {
+    transition: transform 0.2s;
+  }
+  
+  .ui.card:hover {
+    transform: scale(1.05);
+  }
+  
+  input, select {
+    border: 1px solid #3c763d;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 5px;
+  }
+  
